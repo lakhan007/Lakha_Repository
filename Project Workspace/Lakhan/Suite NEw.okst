@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SuiteSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>A3FCBD028CFCBCE29F6C73AB84277489</Name>
+      <Value>Project Workspace/Lakhan/Demo.oktc</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <SuiteStep>
+      <Name>Demo</Name>
+      <ShouldRun>true</ShouldRun>
+      <UseDatasheet>false</UseDatasheet>
+      <Flow_RelativePath>A3FCBD028CFCBCE29F6C73AB84277489</Flow_RelativePath>
+      <BDD_RelativePath />
+      <BPGroup_RelativePath />
+      <Sparkin_RelativePath />
+      <Type>Keyword</Type>
+    </SuiteStep>
+  </FlowSteps>
+</SuiteSchema>
