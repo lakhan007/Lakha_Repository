@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProjectConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ResultServerURL>http://172.17.20.79:7777</ResultServerURL>
+  <Agents>
+    <Agent>
+      <AgentID>6b2230ff-eecb-4d65-9ff1-8706e0114604</AgentID>
+      <Name>LV</Name>
+      <CommProtocol>RestAPI_Service</CommProtocol>
+      <AgentServerURL>http://172.17.20.79:8888</AgentServerURL>
+    </Agent>
+  </Agents>
+</ProjectConfiguration>

@@ -5,7 +5,7 @@
   <IsEncryptionModeOn>false</IsEncryptionModeOn>
   <EncryptionPassword />
   <Salt />
-  <MaxParallelRunAllowed>2</MaxParallelRunAllowed>
+  <MaxParallelRunAllowed>3</MaxParallelRunAllowed>
   <MaxParallelRunOnBrowserStack>2</MaxParallelRunOnBrowserStack>
   <MaxParallelRunOnSauceLabs>2</MaxParallelRunOnSauceLabs>
   <SessionLimit>0</SessionLimit>
