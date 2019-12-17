@@ -95,39 +95,6 @@
       <IsNegative>false</IsNegative>
       <ShouldRun>true</ShouldRun>
       <WantSnapshot>true</WantSnapshot>
-      <Keyword_RelativePath>OpKeyGenericKeyword\SelectWindow</Keyword_RelativePath>
-      <StepInputArgs>
-        <FlowStepInputArgument>
-          <Name>Title</Name>
-          <DataSource>StaticValue</DataSource>
-          <StaticValue xsi:type="xsd:string">Manage your Apple ID - Apple</StaticValue>
-        </FlowStepInputArgument>
-        <FlowStepInputArgument>
-          <Name>TitleIndex</Name>
-          <DataSource>StaticValue</DataSource>
-          <StaticValue xsi:type="xsd:int">0</StaticValue>
-        </FlowStepInputArgument>
-      </StepInputArgs>
-      <StepOutputArgs>
-        <FlowStepOutputArgument />
-      </StepOutputArgs>
-    </FlowStep>
-    <FlowStep>
-      <ContinueOnError>true</ContinueOnError>
-      <IsNegative>false</IsNegative>
-      <ShouldRun>true</ShouldRun>
-      <WantSnapshot>true</WantSnapshot>
-      <Keyword_RelativePath>OpKeyGenericKeyword\SyncBrowser</Keyword_RelativePath>
-      <StepInputArgs />
-      <StepOutputArgs>
-        <FlowStepOutputArgument />
-      </StepOutputArgs>
-    </FlowStep>
-    <FlowStep>
-      <ContinueOnError>true</ContinueOnError>
-      <IsNegative>false</IsNegative>
-      <ShouldRun>true</ShouldRun>
-      <WantSnapshot>true</WantSnapshot>
       <Keyword_RelativePath>OpKeyGenericKeyword\ClickLink</Keyword_RelativePath>
       <StepInputArgs>
         <FlowStepInputArgument>
