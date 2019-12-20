@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SuiteSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>D0A960E0C58DB489BE4B7B1F5B0F3791</Name>
+      <Value>Project Workspace/apoorva/New Node 2019_12_17 06_14_35_449.oktc</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <SuiteStep>
+      <Name>New Node 2019_12_17 06_14_35_449</Name>
+      <ShouldRun>true</ShouldRun>
+      <UseDatasheet>false</UseDatasheet>
+      <Flow_RelativePath>D0A960E0C58DB489BE4B7B1F5B0F3791</Flow_RelativePath>
+      <BDD_RelativePath />
+      <BPGroup_RelativePath />
+      <Sparkin_RelativePath />
+      <Type>Keyword</Type>
+    </SuiteStep>
+  </FlowSteps>
+</SuiteSchema>
