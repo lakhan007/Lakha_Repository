@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ComponentSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ImportedArtifacts />
   <MetaInformation>
     <DescriptionRTF />
@@ -7,30 +7,26 @@
     <IsShared>false</IsShared>
     <IsAutoCreated>false</IsAutoCreated>
   </MetaInformation>
-  <TestSteps>
-    <TestStep>
+  <FlowSteps>
+    <FlowStep>
       <ContinueOnError>true</ContinueOnError>
       <IsNegative>false</IsNegative>
       <ShouldRun>true</ShouldRun>
       <WantSnapshot>true</WantSnapshot>
-      <Keyword_RelativePath>OpKeyGenericKeyword/OpenBrowser</Keyword_RelativePath>
-      <SoapMethod_RelativePath />
-      <RestMethod_RelativePath />
+      <Keyword_RelativePath>OpKeyGenericKeyword\OpenBrowser</Keyword_RelativePath>
       <StepInputArgs>
-        <TestStepInputArgument>
+        <FlowStepInputArgument>
           <Name>Browser</Name>
           <DataSource>StaticValue</DataSource>
-        </TestStepInputArgument>
-        <TestStepInputArgument>
+        </FlowStepInputArgument>
+        <FlowStepInputArgument>
           <Name>URL</Name>
           <DataSource>StaticValue</DataSource>
-        </TestStepInputArgument>
+        </FlowStepInputArgument>
       </StepInputArgs>
       <StepOutputArgs>
-        <TestStepOutputArgument />
+        <FlowStepOutputArgument />
       </StepOutputArgs>
-    </TestStep>
-  </TestSteps>
-  <InputParameters />
-  <OutputParameters />
-</ComponentSchema>
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>

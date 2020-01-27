@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts>
+    <ImportSectionDTO>
+      <Name>B4A7E4C85BF2730256E39C2BF764812B</Name>
+      <Value>Project Workspace/apoorva/New Node 2019_12_17 06_14_27_928.okfl</Value>
+    </ImportSectionDTO>
+  </ImportedArtifacts>
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <FlowStep>
+      <ContinueOnError>false</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>false</WantSnapshot>
+      <Component_RelativePath>B4A7E4C85BF2730256E39C2BF764812B</Component_RelativePath>
+      <StepInputArgs />
+      <StepOutputArgs />
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>
