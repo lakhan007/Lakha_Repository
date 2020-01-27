@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<FlowSchema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportedArtifacts />
+  <MetaInformation>
+    <DescriptionRTF />
+    <ExpectedResult />
+    <IsShared>false</IsShared>
+    <IsAutoCreated>false</IsAutoCreated>
+  </MetaInformation>
+  <FlowSteps>
+    <FlowStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword\AcceptPopup</Keyword_RelativePath>
+      <StepInputArgs />
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+    <FlowStep>
+      <ContinueOnError>true</ContinueOnError>
+      <IsNegative>false</IsNegative>
+      <ShouldRun>true</ShouldRun>
+      <WantSnapshot>true</WantSnapshot>
+      <Keyword_RelativePath>OpKeyGenericKeyword\AssertTextPresent</Keyword_RelativePath>
+      <StepInputArgs>
+        <FlowStepInputArgument>
+          <Name>ExpectedText</Name>
+          <DataSource>StaticValue</DataSource>
+        </FlowStepInputArgument>
+      </StepInputArgs>
+      <StepOutputArgs>
+        <FlowStepOutputArgument />
+      </StepOutputArgs>
+    </FlowStep>
+  </FlowSteps>
+</FlowSchema>
